@@ -11,10 +11,12 @@ Any questions please email to newhaneul1234@gmail.com
 My team solutions for Data Creator Camp <br/>
 
 ### preliminary round:
+- [PDF](같이DATA_예선최종PPT.pdf)
 - [Mission 1](Mission1/DCC_Mission1_같이DATA.ipynb): Chimney location detection (Object Detection) <br/>
-- [Mission 2](Mission2/DCC_Mission2_같이DATA.ipynb): Chimney height estimation from images(Regression) <br/>
+- [Mission 2](Mission2/DCC_Mission2_같이DATA.ipynb): Chimney height estimation from images (Regression) <br/>
 - [Mission 3](Mission3/DCC_mission3_같이DATA.ipynb): Industrial complex segmentation (Semantic Segmentation)<br/>
 
 ### final round:
+- [PDF](같이DATA_본선PPT.pdf)
 - [Mission 4](Mission4/DCC_mission4_같이DATA.ipynb): Multimodal fusion (Multimodal Dataset) <br/>
 - [Mission 4](Mission4/DCC_mission4_analysis_같이DATA.ipynb): Data analysis <br/>
