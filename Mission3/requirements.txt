@@ -1,0 +1,20 @@
+# Core libraries
+numpy
+opencv-python
+matplotlib
+albumentations
+tqdm
+scikit-learn
+
+# Torch stack
+torch
+torchvision
+
+# Pinned per notebook pip cells:
+segmentation-models-pytorch==0.3.3
+timm==0.9.2
+rasterio
+
+# Colab-specific
+google-colab
+

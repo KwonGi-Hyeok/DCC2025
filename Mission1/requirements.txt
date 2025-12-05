@@ -1,0 +1,21 @@
+# Core libraries
+numpy
+matplotlib
+opencv-python
+tqdm
+
+# Torch stack
+torch
+torchvision
+pillow
+
+# Colab-specific
+google-colab
+
+# Install latest Ultralytics to access YOLO11 #models like yolo11n.pt, yolo11s.pt, etc.
+ultralytics==8.3.183
+
+# Common deps used in the notebook:
+torch
+numpy
+matplotlib

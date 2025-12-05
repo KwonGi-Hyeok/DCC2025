@@ -1,0 +1,34 @@
+# 기본 Python 패키지
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# 이미지 처리
+opencv-python
+scikit-image
+Pillow
+imagecodecs
+tifffile
+
+# PyTorch & Vision
+torch
+torchvision
+torchaudio
+
+# 모델/세그멘테이션 라이브러리
+segmentation-models-pytorch
+einops
+timm
+transformers
+
+# 데이터 로딩/보조
+natsort
+tqdm
+
+# augmentation
+albumentations
+
+# 기타 유틸
+python-dateutil

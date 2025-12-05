@@ -1,0 +1,13 @@
+# Core libraries
+numpy
+matplotlib
+opencv-python
+tqdm
+
+# Torch stack
+torch
+torchvision
+pillow
+
+# Colab-specific
+google-colab

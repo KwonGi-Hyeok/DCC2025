@@ -1,0 +1,7 @@
+# .gitignore
+*.zip
+*.pt
+*.pth
+
+# PPT
+*.pptx
