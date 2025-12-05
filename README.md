@@ -14,10 +14,10 @@ My team solutions for Data Creator Camp <br/>
 
 | Round            | Mission | Task                                 | Metric              | Score      |
 |------------------|---------|--------------------------------------|---------------------|------------|
-| Preliminary      | 1       | Chimney location detection           | mAP@0.5             | **0.9941** |
-| Preliminary      | 2       | Chimney height estimation            | RMSE                | **4.4457** |
-| Preliminary      | 3       | Industrial complex segmentation      | mIoU                | **0.9567** |
-| Final            | 4       | Multimodal fusion                    | mIoU                | **0.9831** |
+| Preliminary      |    1    | Chimney location detection           | mAP@0.5             | **0.9941** |
+| Preliminary      |    2    | Chimney height estimation            | RMSE                | **4.4457** |
+| Preliminary      |    3    | Industrial complex segmentation      | mIoU                | **0.9567** |
+| Final            |    4    | Multimodal fusion                    | mIoU                | **0.9831** |
 
 ### Preliminary Round:
 - [PDF](같이DATA_예선최종PPT.pdf)
