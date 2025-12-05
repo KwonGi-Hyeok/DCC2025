@@ -13,7 +13,7 @@ My team solutions for Data Creator Camp <br/>
 ### preliminary round:
 - [Mission 1](Mission1/DCC_Mission1_같이DATA.ipynb): K-Nearest Neighbor classifier *(Done)*<br/>
 - [Mission 2](Mission2/DCC_Mission2_같이DATA.ipynb): Implement a Softmax classifier *(Done)*<br/>
-- [Mission 3](Mission3/DCC_Mission3_같이DATA.ipynb): Two-Layer Neural Network *(Done)*<br/>
+- [Mission 3](Mission3/DCC_mission3_같이DATA.ipynb): Two-Layer Neural Network *(Done)*<br/>
 
 ### final round:
 - [Mission 4](Mission4/DCC_mission4_같이DATA.ipynb): Batch Normalization *(Done)*<br/>
