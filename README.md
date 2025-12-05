@@ -1,4 +1,4 @@
-## Data Creator Camp - 2025, K-ICT
+## [K-ICT, 2025] Data Creator Camp 
 
 This repository contains our team’s solutions and related materials for the tasks we tackled while participating in the Data Creator Camp organized by K-ICT. 
 
