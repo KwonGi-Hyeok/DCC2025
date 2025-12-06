@@ -1,5 +1,7 @@
 ## [K-ICT, 2025] Data Creator Camp 
 
+### Air pollutant emission source detection using satellite imagery and multimodal deep learning
+
 This repository contains our team’s solutions and related materials for the tasks we tackled while participating in the Data Creator Camp organized by K-ICT. 
 
 🏆 Our team was awarded the President’s Award from the National Information Society Agency (NIA). 
@@ -10,6 +12,16 @@ Any questions please email to newhaneul1234@gmail.com
 
 My team solutions for Data Creator Camp <br/>
 
+---
+
+### Dataset
+
+All missions are based on the **AI-Hub “Spatial Distribution Data of Air Pollutant Emission Sources”**.  
+You can find the official dataset page on AI-Hub:  
+- [AI-Hub: Spatial Distribution Data of Air Pollutant Emission Sources](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71805)
+  
+---
+
 ### Performance Summary
 
 | Round            | Mission | Task                                 | Metric              | Score      |
@@ -19,13 +31,15 @@ My team solutions for Data Creator Camp <br/>
 | Preliminary      |    3    | Industrial complex segmentation      | mIoU                | **0.9567** |
 | Final            |    4    | Multimodal fusion                    | mIoU                | **0.9831** |
 
-### Preliminary Round:
+---
+
+### Preliminary Round
 - [PDF](같이DATA_예선최종PPT.pdf)
 - [Mission 1](Mission1/DCC_Mission1_같이DATA.ipynb): Chimney location detection (Object Detection) <br/>
 - [Mission 2](Mission2/DCC_Mission2_같이DATA.ipynb): Chimney height estimation from images (Regression) <br/>
 - [Mission 3](Mission3/DCC_mission3_같이DATA.ipynb): Industrial complex segmentation (Semantic Segmentation)<br/>
 
-### Final Round:
+### Final Round
 - [PDF](같이DATA_본선PPT.pdf)
 - [Mission 4](Mission4/DCC_mission4_같이DATA.ipynb): Multimodal fusion (Multimodal Dataset) <br/>
 - [Mission 4](Mission4/DCC_mission4_analysis_같이DATA.ipynb): Data analysis <br/>
